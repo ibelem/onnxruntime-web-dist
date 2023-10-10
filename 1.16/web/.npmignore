@@ -1,0 +1,13 @@
+/.vscode/
+/script/
+/test/
+
+/dist/**/*.report.html
+
+/types/
+
+karma.conf.js
+tsconfig.json
+tsconfig.tsbuildinfo
+
+*.tgz
